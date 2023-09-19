@@ -78,7 +78,7 @@ section {
 /* Add more CSS for styling as needed */
 This example provides a basic structure for your portfolio website with a navigation menu and sections for "About Me," "Portfolio," and "Contact." You would add your actual content and style it according to your preferences. You can also create separate HTML and CSS files for each portfolio project and link to them from the "Portfolio" section.
 
-For a more sophisticated and personalized portfolio, you may consider using a web development framework or a website builder that offers templates and customization options.
+For a more sophisticated  personalized portfolio, you may consider using a web development framework or a website builder that offers templates and customization options.
 
 
 
